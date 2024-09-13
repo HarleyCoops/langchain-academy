@@ -39,3 +39,13 @@ openai
 selenium
 python-dotenv
 sentence-transformers
+langgraph-sdk
+langgraph-checkpoin-sqlite
+langsmith
+langchain-community 
+langchain-core
+langchain-openai 
+notebook
+tavily-python
+wikipedia 
+
