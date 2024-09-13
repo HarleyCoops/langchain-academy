@@ -1,4 +1,4 @@
-# LangChain Academy 
+# LangChain Academy https://academy.langchain.com/enrollments 
 
 ## Introduction
 
